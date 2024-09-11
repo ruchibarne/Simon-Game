@@ -1,0 +1,50 @@
+body{
+    text-align: center;
+}
+
+.btn{
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+    border: 10px black solid;
+    margin: 2rem;
+}
+.btn-container{
+    display: flex;
+    justify-content: center;
+}
+
+.C1{
+    background-color: cadetblue;
+}
+.C2{
+    background-color: chocolate;
+}
+.C3{
+    background-color: rgb(147, 167, 92);
+}
+.C4{
+    background-color: rgb(160, 95, 127);
+}
+
+.flash{
+    background-color: white;
+}
+
+.userFlash{
+    background-color: green;
+}
+
+
+
+
+.body{
+    background-color: rgb(169, 169, 169);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height:100vh;
+    margin: 0;
+    text-align: center;
+    width: 50%;
+}
